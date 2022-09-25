@@ -1,4 +1,4 @@
-![Easy Frontend banner](https://cdn.tgdd.vn//GameApp/1339948//onepiece-800x450.jpg)
+![Background Trinh Trinh](https://user-images.githubusercontent.com/97866749/192137617-d8dcc0cc-8268-42ab-868e-f7985860e55f.PNG)
 
 # TrinhTrinh - Passionate Web Developer, Frontend Trainer
 
